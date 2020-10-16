@@ -34,6 +34,18 @@ merged %>% filter(Group == "P911") %>%
           subtitle="compared to non-Veterans in the labor force") 
 
 
+ggplot(merged, aes(as.factor(Year), oddsratio,color = Group)) + 
+  geom_linerange(aes(ymin = lower, ymax = upper),size = 1, 
+                 position = position_dodge(width = .25)) + 
+  geom_point(position = position_dodge(width = .25), size = 2) +
+  geom_hline(yintercept =  1, lty = 2) + theme_minimal()  +
+  theme(axis.text = element_text(color = "black")) + 
+  labs(y = "Odds Ratio", x = " ", color = " ") +
+  ggtitle("Post-9/11 Veterans have higher odds of being unemployed",
+          subtitle="compared to non-Veterans in the labor force") +
+  scale_color_brewer(palette= "Set1", labels = c("Gulf War", "Post-9/11"))
+
+
 
 interact_plot(xx,pred = time, modx = Veteran, interval = TRUE, int.width = 0.95,
               int.type = "confidence", modx.labels = c("No","Yes"),
@@ -42,8 +54,9 @@ interact_plot(xx,pred = time, modx = Veteran, interval = TRUE, int.width = 0.95,
               theme_minimal() +
               theme(axis.text = element_text(color = "black")) +
               ggtitle("Probability of unemployment steadily \ndecreasing for Post-9/11 Veterans")
-              
+  
 
+          
 bls_pct %>% filter(State != "Total, 18 years and over") %>%
   ggplot(aes(pct,reorder(State,-pct))) + geom_point() +
   geom_segment(aes(x = 0, y = State, xend = pct, yend = State)) +
@@ -56,3 +69,5 @@ bls_pct %>% filter(State != "Total, 18 years and over") %>%
   labs(y = "", x = "Labor Force Unemployed", caption = "Source: Bureau of Labor Statistics")  +
   ggtitle("Veteran unemployment is highest in DC and Rhode Island", 
           subtitle = "2017 Averages")
+
+

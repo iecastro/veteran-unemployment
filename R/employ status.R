@@ -4,7 +4,7 @@ library(scales)
 library(epitools)
 
 
-vetdata <- read_excel("~/Desktop/DataProjects/Vet_employmentNYS/cpsdata_APR2018.xlsx")
+vetdata <- read_excel("~/Desktop/DataProjects/veteran-unemployment/data and codebook/cpsdata_APR2018.xlsx")
 
 ggplot(vetdata, aes(as.factor(Year),Unempl_pct, fill = ServicePeriod)) + 
   geom_col(position = "dodge") +

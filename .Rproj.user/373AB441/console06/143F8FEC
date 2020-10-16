@@ -2,4 +2,70 @@
 [0;32miecastro@FALK-PH-NSF-L10 [0;35m [0;33m//hd.ad.syr.edu/02/c3964a/Documents/Desktop/DataProjects/veteran-unemployment[0;36m (mast[0Ke
 r)[0m[0K
 $[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git -[0K[?25hq[0K[?25l$ git -[0K[?25h[?25l$ git[0K[7G[?25h[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add -[0K[?25h-[0Ka[0Kl[0Kl[0K[?25l
-[0K[?25h
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/373AB441/sources/prop/69F43D5E.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/373AB441/sources/prop/84613A83.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/373AB441/sources/prop/E4B4634E.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25h[?25lwarning: LF will be replaced by CRLF in .Rproj.user/373AB441/sources/prop/INDEX.[0K
+The file will have its original line endings in[0K[1A[?25h[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/373AB441/sources/s-DCCF2AE8/20F6DD53-contents.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/373AB441/sources/s-DCCF2AE8/24EEF1D3-contents.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/373AB441/sources/s-DCCF2AE8/AF28426E.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25h[?25lwarning: LF will be replaced by CRLF in .Rproj.user/373AB441/sources/s-DCCF2AE8/AF28426E-contents.[0K[1G[?25h[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/shared/notebooks/paths.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25h[?25l
+[0;32miecastro@FALK-PH-NSF-L10 [0;35m [0;33m//hd.ad.syr.edu/02/c3964a/Documents/Desktop/DataProjects/veteran-unemployment[0;36m (mast[0Ke
+r)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25h[?25lo[0K[8G[?25h[9G[?25l$ git com[0K[?25hm[0Ki[0Kt[0K[14G[?25l$ git commit -[0K[?25hm[0K[17G[?25l$ git commit -m "[0K[?25hu[0Kp[0Kl[0Ko[0K[?25la[0K[22G[?25h[23G[?25l$ git commit -m "uploasd[0K[?25h[?25l$ git commit -m "uploas[0K[?25h[?25l$ git commit -m "uploa[0K[?25hd[0K[25G[?25l$ git commit -m "upload pro[0K[?25hject[0K"[0K[?25l
+[0K[?25h[master 5f7d368] upload project[0K[?25l
+ 26 files changed, 671 insertions(+), 1 deletion(-)[0K
+ create mode 100644 .Rproj.user/373AB441/console06/143F8FEC[0K
+ create mode 100644 .Rproj.user/373AB441/console06/INDEX001[0K
+ create mode 100644 .Rproj.user/373AB441/sources/prop/69F43D5E[0K
+ create mode 100644 .Rproj.user/373AB441/sources/prop/84613A83[0K
+ create mode 100644 .Rproj.user/373AB441/sources/prop/E4B4634E[0K
+ create mode 100644 .Rproj.user/373AB441/sources/prop/INDEX[0K
+ create mode 100644 .Rproj.user/373AB441/sources/s-DCCF2AE8/20F6DD53-contents[0K
+ create mode 100644 .Rproj.user/373AB441/sources/s-DCCF2AE8/24EEF1D3-contents[0K
+ create mode 100644 .Rproj.user/373AB441/sources/s-DCCF2AE8/AF28426E[0K
+ create mode 100644 .Rproj.user/373AB441/sources/s-DCCF2AE8/AF28426E-contents[0K
+ create mode 100644 .Rproj.user/373AB441/sources/s-DCCF2AE8/lock_file[0K
+ create mode 100644 .Rproj.user/shared/notebooks/patch-chunk-names[0K
+ create mode 100644 .Rproj.user/shared/notebooks/paths[0K
+ create mode 100644 R scripts/bls scrape.R[0K
+ create mode 100644 R scripts/employ status.R[0K
+ create mode 100644 R scripts/final plots.R[0K
+ create mode 100644 R scripts/odd ratios & logit.R[0K
+ create mode 100644 data and codebook/DOL_EmploymentStatusOfTheVeteranPopulation_DataDictionary.pdf[0K
+ create mode 100644 data and codebook/DOL_EmploymentStatusOfTheVeteranPopulation_Overview.pdf[0K
+ create mode 100644 data and codebook/cpsdata_APR2018.xlsx[0K
+ create mode 100644 figures/LFparticipation.png[0K
+ create mode 100644 figures/ORs by year.png[0K
+ create mode 100644 figures/logit_interaction.png[0K
+ create mode 100644 figures/unemployed.png[0K
+ create mode 100644 veteran-unemployment.Rproj[0K
+[0K[?25h[?25l
+[0;32miecastro@FALK-PH-NSF-L10 [0;35m [0;33m//hd.ad.syr.edu/02/c3964a/Documents/Desktop/DataProjects/veteran-unemployment[0;36m (mast[0Ke
+r)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hit[0K[7G[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[12G[?25l$ git push -[0K[?25hu[0K[15G[?25l$ git push -u o[0K[?25hr[0K[?25li[0K[17G[?25h[18G[?25l$ git push -u orig[0K[?25hi[0Kn[0K[22G[?25l$ git push -u origin m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K[?25l
+[0K[?25hEnumerating objects: 35, done.[0K[?25l
+[0K[?25h[?25lCounting objects:   2% (1/35)[0K[1G[?25h[?25lCounting objects:   8% (3/35)[0K[1G[?25h[?25lCounting objects:  11% (4/35)[0K[1G[?25h[?25lCounting objects:  17% (6/35)[0K[1G[?25h[?25lCounting objects:  22% (8/35)[0K[1G[?25h[?25lCounting objects:  31% (11/35)[0K[1G[?25h[?25lCounting objects:  42% (15/35)[0K[1G[?25h[?25lCounting objects:  45% (16/35)[0K[1G[?25h[?25lCounting objects:  51% (18/35)[0K[1G[?25h[?25lCounting objects:  60% (21/35)[0K[1G[?25h[?25lCounting objects:  65% (23/35)[0K[1G[?25h[?25lCounting objects:  68% (24/35)[0K[1G[?25h[?25lCounting objects:  71% (25/35)[0K[1G[?25h[?25lCounting objects:  74% (26/35)[0K[1G[?25h[?25lCounting objects:  77% (27/35)[0K[1G[?25h[?25lCounting objects:  80% (28/35)[0K[1G[?25h[?25lCounting objects:  85% (30/35)[0K[1G[?25h[?25lCounting objects:  91% (32/35)[0K[1G[?25h[?25lCounting objects:  94% (33/35)[0K[1G[?25h[?25lCounting objects:  97% (34/35)[0K[1G[?25hCounting objects: 100% (35/35), done.[0K[?25l
+Delta compression using up to 4 threads.[0K
+Compressing objects:  16% (5/31)[0K[1G[?25h[?25lCompressing objects:  32% (10/31)[0K[1G[?25h[?25lCompressing objects:  38% (12/31)[0K[1G[?25h[?25lCompressing objects:  45% (14/31)[0K[1G[?25h[?25lCompressing objects:  67% (21/31)[0K[1G[?25h[?25lCompressing objects:  87% (27/31)[0K[1G[?25hCompressing objects: 100% (31/31), done.[0K[?25l
+[0K[?25h[?25lWriting objects:   5% (2/34)[0K[1G[?25h[?25lWriting objects:  20% (7/34)[0K[1G[?25h[?25lWriting objects:  35% (12/34)[0K[1G[?25h[?25lWriting objects:  47% (16/34)[0K[1G[?25h[?25lWriting objects:  64% (22/34)[0K[1G[?25h[?25lWriting objects:  73% (25/34)[0K[1G[?25h[?25lWriting objects:  88% (30/34)[0K[1G[?25hWriting objects: 100% (34/34), 222.61 KiB | 834.00 KiB/s, done.[0K[?25l
+Total 34 (delta 0), reused 0 (delta 0)[0K
+[0K[?25hTo https://github.com/iecastro/veteran-unemployment.git[0K[?25l
+   eba4bc2..5f7d368  master -> master[0K
+[0K[?25hBranch 'master' set up to track remote branch 'master' from 'origin'.[0K[?25l
+[0K[?25h[?25l
+[0;32miecastro@FALK-PH-NSF-L10 [0;35m [0;33m//hd.ad.syr.edu/02/c3964a/Documents/Desktop/DataProjects/veteran-unemployment[0;36m (mast[0Ke
+r)[0m[0K
+$[0K[3G[?25h
