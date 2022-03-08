@@ -3,6 +3,11 @@ Descriptive analysis of unemployment in the Veteran population (New York State)
 
 # Current Population Survey (CPS)
 
+## 2021
+![](figures/cps2022.png)
+
+
+## 2019
 ![](figures/cps2019.png)
 
 
